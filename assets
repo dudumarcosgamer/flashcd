@@ -1,0 +1,4 @@
+mkdir assets
+git add assets/
+git commit -m "Adicionando a pasta assets"
+git push origin main
