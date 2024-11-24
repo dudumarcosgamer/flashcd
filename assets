@@ -1,0 +1,13 @@
+/meu-projeto
+  /assets
+    /images
+      logo.png
+      background.jpg
+    /fonts
+      custom-font.ttf
+    /scripts
+      app.js
+    /styles
+      main.css
+    /data
+      characters.json
