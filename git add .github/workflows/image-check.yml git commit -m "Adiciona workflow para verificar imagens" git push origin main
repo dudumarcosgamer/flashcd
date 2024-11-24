@@ -1,3 +1,0 @@
-git add .github/workflows/image-check.yml
-git commit -m "Adiciona workflow para verificar imagens"
-git push origin main
